@@ -1,0 +1,1 @@
+In this project, I have implemented various network properties using pySpark and GraphFrames. In addition to implementing these network metrics, I have answered some questions when applying these metrics on real world and synthetic networks.
